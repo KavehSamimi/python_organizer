@@ -1,4 +1,4 @@
-This Python script organized files in a specific directory by categorizing them into folders based on their file type. 
+This Python script organizes files in a specific directory by categorizing them into folders based on their file type. 
 It helps maintain a more structured and organozed file system. 
 
 How to use?
